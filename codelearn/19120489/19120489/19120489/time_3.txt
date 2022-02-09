@@ -1,0 +1,120 @@
+selection sort
+3000: 12000
+insertionSort
+3000: 0
+binary-insertionSort
+3000: 1000
+bubble sort
+3000: 12000
+shake Sort
+3000: 0
+shellsort
+3000: 1000
+heapsort
+3000: 2000
+mergesort
+3000: 3000
+Quicksort
+3000: 1000
+Counting Sort
+3000: 0
+Radix sort
+3000: 0
+flash sort
+3000: 0
+selection sort
+10000: 574000
+insertionSort
+10000: 0
+binary-insertionSort
+10000: 4000
+bubble sort
+10000: 238000
+shake Sort
+10000: 3000
+shellsort
+10000: 1000
+heapsort
+10000: 23000
+mergesort
+10000: 13000
+Quicksort
+10000: 2000
+Counting Sort
+10000: 0
+Radix sort
+10000: 2000
+flash sort
+10000: 0
+selection sort
+30000: 1.903e+06
+insertionSort
+30000: 1000
+binary-insertionSort
+30000: 53000
+bubble sort
+30000: 2.248e+06
+shake Sort
+30000: 10000
+shellsort
+30000: 15000
+heapsort
+30000: 35000
+mergesort
+30000: 30000
+Quicksort
+30000: 6000
+Counting Sort
+30000: 1000
+Radix sort
+30000: 12000
+flash sort
+30000: 1000
+selection sort
+100000: 1.423e+07
+insertionSort
+100000: 1000
+binary-insertionSort
+100000: 62000
+bubble sort
+100000: 1.4084e+07
+shake Sort
+100000: 5000
+shellsort
+100000: 11000
+heapsort
+100000: 133000
+mergesort
+100000: 85000
+Quicksort
+100000: 19000
+Counting Sort
+100000: 3000
+Radix sort
+100000: 31000
+flash sort
+100000: 4000
+selection sort
+300000: 1.18006e+08
+insertionSort
+300000: 2000
+binary-insertionSort
+300000: 192000
+bubble sort
+300000: 1.26635e+08
+shake Sort
+300000: 7000
+shellsort
+300000: 29000
+heapsort
+300000: 513000
+mergesort
+300000: 281000
+Quicksort
+300000: 55000
+Counting Sort
+300000: 20000
+Radix sort
+300000: 120000
+flash sort
+300000: 15000

@@ -1,0 +1,9 @@
+300000
+choose: 0
+Time: 72000 (us) 
+choose: 1
+Time: 65000 (us) 
+choose: 2
+Time: 56000 (us) 
+choose: 3
+Time: 57000 (us) 
